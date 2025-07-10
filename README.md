@@ -30,14 +30,20 @@
 
 ---
 
+---
+
 ## 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ademilsonbraunn/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:ademilsondbraunn@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/ademilsonbraunn/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn%20Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:ademilsondbraunn@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
----
 
 ## 💡 Curiosidades sobre mim
 
