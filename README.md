@@ -27,8 +27,6 @@
 | 🚧 Projeto | 💡 Descrição | 🛠️ Tecnologias |
 |-----------|--------------|----------------|
 | [**ControlePRO**](https://github.com/AdemilsonBraunn/controlepro) | Sistema de controle de estoque com tela de login | HTML, CSS, JS |
-| **To-do App** *(em breve)* | Lista de tarefas com React | React, CSS |
-| **ClimaApp** *(em breve)* | Consulta de clima por cidade usando API | JS, HTML/CSS, API |
 
 ---
 
