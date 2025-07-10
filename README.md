@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Ademilson!
 
-Sou um desenvolvedor em formação com foco em criar soluções web práticas e eficientes. Atualmente estou aprofundando meus conhecimentos em **JavaScript**, **TypeScript**, **React** e **Node.js**, participando de bootcamps e desenvolvendo projetos próprios.
+Sou um desenvolvedor em formação com foco em criar soluções web práticas e eficientes. Atualmente estou aprofundando meus conhecimentos em **JavaScript**, **TypeScript**, **React**, **Node.js** e **C#**, participando de bootcamps e desenvolvendo projetos próprios.
 
 ---
 
@@ -11,6 +11,7 @@ Sou um desenvolvedor em formação com foco em criar soluções web práticas e 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>
 </div>
