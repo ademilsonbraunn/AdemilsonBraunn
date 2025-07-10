@@ -1,47 +1,53 @@
-# 👋 Olá, eu sou o Ademilson!
+<h1 align="center">👋 Olá, eu sou o Ademilson!</h1>
 
-Sou um desenvolvedor em formação com foco em criar soluções web práticas e eficientes. Atualmente estou aprofundando meus conhecimentos em **JavaScript**, **TypeScript**, **React**, **Node.js** e **C#**, participando de bootcamps e desenvolvendo projetos próprios.
+<p align="center">
+  Desenvolvedor em formação focado em criar soluções web práticas e eficientes.<br>
+  Atualmente estudando <strong>JavaScript, TypeScript, React, Node.js e C#</strong>.<br>
+  Apaixonado por transformar ideias em código real e funcional.
+</p>
 
 ---
 
-## 🚀 Tecnologias que estou estudando:
+## 🚀 Tecnologias que estou estudando
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS"/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
 </div>
 
 ---
 
-## 📁 Projetos em destaque:
+## 📌 Projetos em destaque
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [ControlePRO](https://github.com/AdemilsonBraunn/controlepro) | Sistema de controle de estoque com tela de login | HTML, CSS, JS |
-| [To-do App](#) | Lista de tarefas simples com React | React, CSS |
-| [ClimaApp](#) | Consulta de clima por cidade usando API | JS, API, HTML/CSS |
-
----
-
-## 📫 Onde me encontrar:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ademilsonbraunn/)  
-- 📧 ademilsondbraunn@gmail.com  
-- 🌐 [Portfólio (em construção)](#)
+| 🚧 Projeto | 💡 Descrição | 🛠️ Tecnologias |
+|-----------|--------------|----------------|
+| [**ControlePRO**](https://github.com/AdemilsonBraunn/controlepro) | Sistema de controle de estoque com tela de login | HTML, CSS, JS |
+| **To-do App** *(em breve)* | Lista de tarefas com React | React, CSS |
+| **ClimaApp** *(em breve)* | Consulta de clima por cidade usando API | JS, HTML/CSS, API |
 
 ---
 
-## 💡 Curiosidades:
+## 🌐 Onde me encontrar
 
-- Estou sempre em busca de novos desafios
-- Gosto de aprender na prática, quebrar a cabeça e resolver problemas
-- Amo transformar ideias em interfaces reais!
+<p align="center">
+  <a href="https://www.linkedin.com/in/ademilsonbraunn/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:ademilsondbraunn@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfólio-em construção-inactive?style=for-the-badge" /></a>
+</p>
 
 ---
 
-⭐️ Se você gostou dos meus projetos, me siga para acompanhar a evolução!
+## 💡 Curiosidades sobre mim
+
+- 💥 Adoro aprender coisas novas todos os dias
+- 🔧 Gosto de quebrar a cabeça resolvendo bugs
+- 🧠 Tenho foco em aprender com prática e projetos reais
+
+---
+
+<p align="center"><b>⭐️ Se curtir meus projetos, me siga para acompanhar minha jornada!</b></p>
