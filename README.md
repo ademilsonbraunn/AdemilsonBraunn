@@ -84,6 +84,9 @@ const ademilson = {
 <a href="https://github.com/ademilsonbraunn/fisioclinic">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ademilsonbraunn&repo=fisioclinic&theme=tokyonight&hide_border=true&title_color=2D5BE3&icon_color=2D5BE3&text_color=ffffff&bg_color=0d1117" />
 </a>
+<a href="https://github.com/ademilsonbraunn/resumidor_texto">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ademilsonbraunn&repo=resumidor_texto&theme=tokyonight&hide_border=true&title_color=2D5BE3&icon_color=2D5BE3&text_color=ffffff&bg_color=0d1117" />
+</a>
 
 </div>
 
@@ -103,8 +106,8 @@ Sistema completo de gestão clínica para fisioterapia — prontuário eletrôni
 - 🔨 Anamnese e avaliação
 - 🔲 Plano de tratamento
 - ✅ Agendamento
-- 🔲 Evolução clínica (SOAP)
-- 🔲 Alta e relatórios
+- ✅ Evolução clínica (SOAP)
+- ✅ Alta e relatórios
 
 </td>
 <td width="50%">
@@ -119,6 +122,36 @@ Sistema de controle de estoque com autenticação — desenvolvido para aprendiz
 - 📋 Gestão de inventário
 - 📊 Dashboard de controle
 - 🎯 Interface responsiva
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📝 Resumidor de Texto
+Aplicação web que realiza resumo automático de textos — útil para síntese rápida de artigos, documentos e conteúdos extensos.
+
+**Stack:** `HTML` · `CSS` · `JavaScript`
+
+**Funcionalidades:**
+- ✂️ Resumo automático de textos
+- 📋 Interface limpa e intuitiva
+- ⚡ Processamento no browser
+- 🎯 Foco em usabilidade
+
+</td>
+<td width="50%">
+
+### 🎨 Paleta
+Ferramenta web para exploração e geração de paletas de cores — auxilia designers e desenvolvedores na escolha de combinações harmoniosas.
+
+**Stack:** `HTML` · `CSS` · `JavaScript`
+
+**Funcionalidades:**
+- 🖌️ Geração de paletas de cores
+- 🔍 Visualização em tempo real
+- 📐 Combinações harmoniosas
+- 💡 Interface visual e interativa
 
 </td>
 </tr>
@@ -150,7 +183,7 @@ Sistema de controle de estoque com autenticação — desenvolvido para aprendiz
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                   │
-│   🏗️  FisioClinic v1.2  →  Completando módulo de Anamnese        │
+│   🏗️  FisioClinic v1.4  →  Completando módulo de Anamnese        │
 │   📖  Trilha .NET DIO   →  Concluída fundamentos, POO e BD       │
 │   🌱  Explorando        →  Docker · AWS · TypeScript avançado    │
 │   🎯  Meta 2026         →  Primeiro projeto em produção          │
